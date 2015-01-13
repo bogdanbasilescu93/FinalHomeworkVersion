@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Thechosenone\Desktop\Parse\ParseStarterProject\libs\ParseCrashReporting-1.8.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01cd6a9702d4fdba38c93426da8f2fffc738e107">
+        <dex dex="C:\Users\Thechosenone\Desktop\Parse\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.8.1-2ec590aacb478d765f69b828424c169e54228d59.jar" />
+    </item>
+    <item
+        jar="C:\Users\Thechosenone\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\Users\Thechosenone\Desktop\Parse\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-4ec1a961647f657bcb59279b55223ea9c8d8a01d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Thechosenone\Desktop\Parse\ParseStarterProject\libs\Parse-1.8.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="dd491448169a0c142a786164b249139d2407a6f9">
+        <dex dex="C:\Users\Thechosenone\Desktop\Parse\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.8.1-db327cf6f82e53f6b3330588331af3bb75afe39e.jar" />
+    </item>
+
+</items>

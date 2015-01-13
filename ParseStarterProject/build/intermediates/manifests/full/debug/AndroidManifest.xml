@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.parse.starter"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name="com.parse.starter.ParseApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+        <activity
+            android:name="com.parse.starter.Splash"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.parse.starter.MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.parse.starter.LoginSignUpActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.parse.starter.Welcome"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.parse.starter.ChangePasswordActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.parse.starter.LinksListActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.parse.starter.DynamicLayoutActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.parse.starter.WeatherActivity"
+            android:label="@string/app_name" >
+        </activity>
+    </application>
+
+</manifest>

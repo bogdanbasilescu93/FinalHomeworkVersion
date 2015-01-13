@@ -1,0 +1,4 @@
+C:\Users\Thechosenone\Desktop\Parse\ParseStarterProject\build\intermediates\classes\debug
+C:\Users\Thechosenone\Desktop\Parse\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-4ec1a961647f657bcb59279b55223ea9c8d8a01d.jar
+C:\Users\Thechosenone\Desktop\Parse\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.8.1-2ec590aacb478d765f69b828424c169e54228d59.jar
+C:\Users\Thechosenone\Desktop\Parse\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.8.1-db327cf6f82e53f6b3330588331af3bb75afe39e.jar

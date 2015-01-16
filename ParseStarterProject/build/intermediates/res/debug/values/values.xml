@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- From: file:/C:/Users/Thechosenone/Desktop/Parse/ParseStarterProject/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
     <!-- From: file:/C:/Users/Thechosenone/Desktop/Parse/ParseStarterProject/res/values/strings.xml -->
     <eat-comment/>
     <string name="AddView">Add View</string>
@@ -14,10 +18,18 @@
     <string name="SignUp">Sign Up</string>
     <string name="UsefulLinks">UsefulLinks</string>
     <string name="Welcome">Welcome</string>
+    <string name="action_settings">Settings</string>
     <string name="app_name">HomeworkApp by Basilescu Bogdan</string>
+    <string name="country">Country:</string>
     <string name="hello">Hello World, ParseStarterProjectActivity!</string>
+    <string name="hello_world">Hello world!</string>
     <string name="hint1">Insert old password</string>
     <string name="hint2">Insert new password</string>
+    <string name="humidity">Humidity:</string>
+    <string name="location">Location</string>
     <string name="outputWeather">City, Country :</string>
     <string name="pass1">Password:</string>
+    <string name="pressure">Pressure:</string>
+    <string name="temperature">Temperature:</string>
+    <string name="weather">Weather</string>
 </resources>
